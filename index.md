@@ -5,9 +5,11 @@ title: Graham Baradoy
 
 ![Graham](/assets/GrahamArt.jpg){:class="home-face"}
 
-I am an organizer at [WhiskyDev](http://whiskydev.com). We connect software developers through whisky. 
-On Thursdays I curl in the [Broom Under Water](http://www.broomunderwater.ca/) curling league.
-I build software at [Lightrail](https://lightrail.com). 
+I relocated from Calgary to Victoria in 2013 and have never looked back. From bike paths to breweries and hiking, I enjoy the quality of life Victoria provides.   
+
+I build software at [Lightrail](https://lightrail.com).
+I am an organizer at [WhiskyDev](http://whiskydev.com) where we connect software developers through whisky. 
+On Thursdays I curl with my wonderful wife in the [Broom Under Water](http://www.broomunderwater.ca/) curling league at the Victoria Curling Club.
 
 ### Resume
 
