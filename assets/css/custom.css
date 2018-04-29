@@ -1,0 +1,11 @@
+.board-game-image {
+  border-radius: 10%;
+}
+
+.home-face {
+  border-radius: 50%;
+  width:80%;
+  max-width:200px;
+  margin: 0 auto;
+  display: block;
+}
