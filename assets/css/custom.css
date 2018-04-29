@@ -9,3 +9,12 @@
   margin: 0 auto;
   display: block;
 }
+
+.scroll-list {
+  height: 9em; 
+  overflow-y: hidden;
+}
+
+.scroll-list:hover {
+  overflow-y: auto;
+}
